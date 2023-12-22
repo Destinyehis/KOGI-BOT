@@ -7,7 +7,7 @@ import axios from "axios";
 
 global.owner = [["2348098309204", "Danny", true], [""]]; //Number of owners
 
-global.pairingNumber = "2348098309204"; //put your bot number here
+global.pairingNumber = "2348098309204"; //2349168090282
 
 global.mods = ["2348098309204", "32460248586"];
 global.prems = ["2348098309204", "32460248586", "919398758484"];
